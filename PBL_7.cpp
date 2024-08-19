@@ -10,7 +10,7 @@ void create();
 void modify();
 void mult();
 void display();
-};
+};  
 template<class T>
 void vector<T>::create()
 {
